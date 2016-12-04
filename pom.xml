@@ -15,11 +15,13 @@
         </repository>
     </repositories>
 
-    <dependency>
-        <groupId>com.github.samczsun</groupId>
-        <artifactId>skype4j</artifactId>
-        <version>v0.1.5</version>
-    </dependency>
+    <dependencies>
+        <dependency>
+            <groupId>com.github.samczsun</groupId>
+            <artifactId>skype4j</artifactId>
+            <version>v0.1.5</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
